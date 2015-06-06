@@ -1,0 +1,14 @@
+{
+  "name": "chiplib",
+  "version": "0.0.0",
+  "authors": [
+    "Simon Gündling",
+    "Paul Nechifor <paul@nechifor.net> (http://nechifor.net/)"
+  ],
+  "main": "lib",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/paul-nechifor/chiplib"
+  },
+  "licenses": [{"type": "MIT"}, {"type": "BSD"}]
+}
