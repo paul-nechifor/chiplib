@@ -1,9 +1,9 @@
 # Chiplib
 
-A fork of [chiptune2](https://github.com/deskjet/chiptune2.js) to make it work
-with NPM.
+A fork of [chiptune2](chiptune2) to make it work with NPM.
 
-You can see how I'm using it on [Keygen Radio][keygen-radio].
+You can see how I'm using it on [Keygen Radio][kgrsite] [(source
+code)][kgrsource].
 
 ## License
 
@@ -32,4 +32,6 @@ License text below:
 > OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 > SOFTWARE.
 
-[keygen-radio]: https://github.com/paul-nechifor/keygen-radio
+[chiptune2]: https://github.com/deskjet/chiptune2.js
+[kgrsite]: http://keygenradio.com
+[kgrsource]: https://github.com/paul-nechifor/keygen-radio
