@@ -1,3 +1,7 @@
+# This repository has been moved to [gitlab.com/paul-nechifor/chiplib](http://gitlab.com/paul-nechifor/chiplib).
+
+Old readme:
+
 # Chiplib
 
 A fork of [chiptune2](chiptune2) to make it work with NPM.
